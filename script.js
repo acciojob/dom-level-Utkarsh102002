@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let element = document.getElementBy("level");
+let element = document.getElementByID("level");
 let level = 0;
 let current = element;
 
